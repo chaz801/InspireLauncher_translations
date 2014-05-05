@@ -31,7 +31,7 @@
     <string name="title_live_folder_exists">A live folder with that name already exists!</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
+    <string name="settings_title">Inspire prime Settings</string>
     <string name="title_prime">Inspire launcher prime</string>
     <string name="title_ui">User interface</string>
     <string name="title_general_settings">General</string>
@@ -44,9 +44,9 @@
     <string name="title_bug_report">BUG report</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_enable_prime">Tap here to enable and unlock prime features</string>
+    <string name="title_prime_feature_enabled">Prime feature</string>
+    <string name="title_prime_feature_message">This feature is now enabled and unlocked enjoy!</string>
 
     <!-- General -->
     <string name="title_fullscreen">Full screen</string>
